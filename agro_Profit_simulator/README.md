@@ -15,7 +15,7 @@ It allows farmers and agribusiness professionals to better understand the potent
 
 ## ▶️ Try the App Online
 
-🔗 [Click here to use the simulator](https://farmmanagementtools-9dvamk3aq5kyr2lxvk7e43.streamlit.app/)
+🔗 [Click here to use the simulator](https://farmmanagementtools-zqipg8hucpo2wvlenye7aa.streamlit.app/)
 
 ## 📂 Source Code
 
