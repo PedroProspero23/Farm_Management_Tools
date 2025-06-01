@@ -1,29 +1,30 @@
-# 🌾 Agricultural Profit Simulator with Monte Carlo
+# 🌾 Simulador de Lucro Agrícola com Monte Carlo
 
-This interactive web app was built with Python and Streamlit to simulate farm profit scenarios using Monte Carlo simulations.
+Este aplicativo web interativo foi desenvolvido com Python e Streamlit para simular cenários de lucro agrícola utilizando simulações de Monte Carlo.
 
-It allows farmers and agribusiness professionals to better understand the potential variability of profits by adjusting key inputs like costs, yields, and market prices.
+Ele permite que produtores rurais e profissionais do agronegócio compreendam melhor a **variabilidade potencial dos lucros** ajustando insumos-chave como custos, produtividades e preços de mercado.
 
-## ✅ Features
+## ✅ Funcionalidades
 
-- Customize farm size and fixed costs
-- Adjust cost, yield, and selling price inputs for soy and corn
-- Set **percentage variation** in costs, production, and prices to reflect real market uncertainty and explore profit margins
-- Run thousands of Monte Carlo simulations to estimate potential outcomes
-- Visualize results through intuitive charts
-- Learn how each calculation works via an explanation tab
+- Personalize o tamanho da fazenda e os custos fixos  
+- Ajuste os custos, produtividades e preços de venda para **soja e milho**  
+- Defina a **variação percentual** nos custos, produção e preços para refletir a incerteza do mercado real e explorar margens de lucro  
+- Execute milhares de simulações de Monte Carlo para estimar possíveis resultados  
+- Visualize os resultados por meio de gráficos intuitivos  
+- Entenda como cada cálculo funciona por meio de uma aba explicativa  
 
-## ▶️ Try the App Online
+## ▶️ Teste o Aplicativo Online
 
-🔗 [Click here to use the simulator](https://farmmanagementtools-zqipg8hucpo2wvlenye7aa.streamlit.app/)
+🔗 [Clique aqui para usar o simulador](https://farmmanagementtools-zqipg8hucpo2wvlenye7aa.streamlit.app/)
 
-## 📂 Source Code
+## 📂 Código-Fonte
 
-All the code used in this project is available in this repository:
-- `app.py` – Streamlit user interface
-- `monte_carlo_engine.py` – Simulation logic
-- `requirements.txt` – List of required packages
+Todo o código utilizado neste projeto está disponível neste repositório:
+
+- `app.py` – Interface do usuário em Streamlit  
+- `monte_carlo_engine.py` – Lógica da simulação  
+- `requirements.txt` – Lista de pacotes necessários  
 
 ---
 
-Developed as part of a personal portfolio to explore agricultural risk and decision-making tools.
+Desenvolvido como parte de um portfólio pessoal para explorar ferramentas de análise de risco e apoio à tomada de decisão no setor agrícola.
