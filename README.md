@@ -1,4 +1,4 @@
-# 🚜 Farm_Management_Tools
+# 🚜 Ferramentas_Gestao_Rural
 
 Este repositório é dedicado ao desenvolvimento de ferramentas digitais que apoiam a **gestão operacional de propriedades rurais**. Com foco prático na organização, automação e simplificação das rotinas do campo, o objetivo aqui é criar soluções que melhorem a tomada de decisão tanto na lavoura quanto no escritório.
 
